@@ -39,9 +39,9 @@ Just enter your username and instantly see your problem-solving stats in a visua
 2. Click on Search
 3. The app fetches your data using GraphQL API
 4. Displays:
-         * Problems solved by difficulty
-         * Submission statistics
-         * Progress visualization
+         - Problems solved by difficulty
+         - Submission statistics
+         - Progress visualization
 
 
 
