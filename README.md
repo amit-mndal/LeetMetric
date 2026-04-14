@@ -34,12 +34,14 @@ Just enter your username and instantly see your problem-solving stats in a visua
 
 
 
-# How It Works
-* The user enters a valid LeetCode username.
-* On clicking the search button, a GraphQL API request is sent.
-* The application processes the response and extracts relevant data.
-* The UI updates dynamically to display:
-* Number of solved problems by difficulty
+# ⚙️ How It Works
+1. Enter your LeetCode username
+2. Click on Search
+3. The app fetches your data using GraphQL API
+4. Displays:
+         * Problems solved by difficulty
+         * Submission statistics
+         * Progress visualization
 
 
 
@@ -48,7 +50,7 @@ Just enter your username and instantly see your problem-solving stats in a visua
 
 
 
-# Note
+# ⭐ Note
 
 This project was developed as a practical implementation of frontend development concepts and API integration, with a focus on building a clean and functional user interface.
 Submission statistics
