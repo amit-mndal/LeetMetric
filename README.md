@@ -19,7 +19,7 @@ Just enter your username and instantly see your problem-solving stats in a visua
 
 # Features
 * Search any LeetCode username
-* View solved problems by difficulty (Easy, Medium, Hard)
+* View solved problems by difficulty (Easy, Medium & Hard)
 * Animated progress indicators
 * Display total submission statistics
 * Clean and minimal user interface
