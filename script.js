@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function(){
 
+    //fetching everything
     const searchButton = document.getElementById("search_button");
     const userNameInput = document.getElementById("user_input");
     const statsContainer = document.querySelector(".stats_container");
