@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", function(){
 
     //     const percentage = Math.round(progressDegree);
 
-    //     // ✅ BOTH percentage + count
+    //     //  BOTH percentage + count
     //       label.textContent = `${percentage}%\n(${solved}/${total})`;
           
     //       //only (10/100)
