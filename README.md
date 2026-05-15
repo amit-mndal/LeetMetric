@@ -16,7 +16,6 @@ Just enter your username and instantly see your problem-solving stats in a visua
 
 
 
-
 # Features
 * Search any LeetCode username
 * View solved problems by difficulty (Easy, Medium & Hard)
