@@ -1,7 +1,7 @@
 # LeetMetric
 
 LeetMetric is a simple and clean web app that helps you track your LeetCode progress.
-Just enter your username and instantly see your problem-solving stats in a visual and easy-to-understand way..
+Just enter your username and instantly see your problem-solving stats in a visual and easy-to-understand way.
 
 
 
